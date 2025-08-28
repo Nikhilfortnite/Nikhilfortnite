@@ -7,9 +7,9 @@
 ---
 
 ### 📊 GitHub Stats  
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhilfortnite&show_icons=true&theme=tokyonight&include_all_commits=true)  
+![Nikhil's GitHub Stats](https://github-readme-stats-lzqqaueur-nikhilfortnites-projects.vercel.app/api?username=Nikhilfortnite&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=8640)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilfortnite&layout=compact&theme=tokyonight&include_all_commits=true)  
+![Top Languages](https://github-readme-stats-lzqqaueur-nikhilfortnites-projects.vercel.app/api/top-langs/?username=Nikhilfortnite&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
