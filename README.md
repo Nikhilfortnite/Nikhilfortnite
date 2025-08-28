@@ -1,4 +1,6 @@
-# Hi there, I'm Nikhil 👋  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nikhil+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
 💻 Full-Stack Developer Vue | React | Node.js | FastAPI  
 🌱 Exploring System Design  
