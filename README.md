@@ -2,16 +2,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Nikhil+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
-💻 Full-Stack Developer Vue | React | Node.js | FastAPI  
-🌱 Exploring System Design  
-🚀 Passionate about building scalable apps & learning new tech  
-
+### 📫 Connect with me  
+- 🌐 [Portfolio](https://porfolio-axfl.onrender.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhilam2003/)  
+- ✉️ [Email](mailto:nikhildevika2003@gmail.com)  
+   
 ---
 
 ### 📊 GitHub Stats
 ![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhilfortnite&show_icons=true&theme=tokyonight&include_all_commits=true) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilfortnite&layout=compact&theme=tokyonight&include_all_commits=true)
+
 ---
 ### 🛠️ Tech Stack  
 
@@ -51,10 +53,3 @@
 </div>
 
 ---
-
-### 📫 Connect with me  
-- 🌐 [Portfolio](https://porfolio-axfl.onrender.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nikhilam2003/)  
-- ✉️ [Email](mailto:nikhildevika2003@gmail.com)  
-
-⭐️ From [Nikhil A M](https://github.com/nikhilam)  
