@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there, I'm Nikhil 👋  
 
-<!--
-**Nikhilfortnite/Nikhilfortnite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer Vue | React | Node.js | FastAPI  
+🌱 Exploring System Design  
+🚀 Passionate about building scalable apps & learning new tech  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats  
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhilfortnite&show_icons=true&theme=tokyonight&include_all_commits=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilfortnite&layout=compact&theme=tokyonight&include_all_commits=true)  
+
+---
+
+### 🛠️ Tech Stack  
+
+<div align="left" style="background-color:#0d1125; padding:20px; border-radius:10px;">
+
+#### Frontend  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</p>
+
+#### Backend  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+</p>
+
+#### Databases  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
+</p>
+
+#### Tools & Others  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/>
+</p>
+
+</div>
+
+---
+
+### 📫 Connect with me  
+- 🌐 [Portfolio](https://porfolio-axfl.onrender.com)  
+- 💼 [LinkedIn](https://porfolio-axfl.onrender.com/)  
+- ✉️ [Email](mailto:nikhildevika2003@gmail.com)  
+
+⭐️ From [Nikhil A M](https://github.com/nikhilam)  
