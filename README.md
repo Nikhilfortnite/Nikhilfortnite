@@ -6,13 +6,12 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Nikhil's GitHub Stats](https://github-readme-stats-lzqqaueur-nikhilfortnites-projects.vercel.app/api?username=Nikhilfortnite&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=8640)
+### 📊 GitHub Stats
+![Nikhil's GitHub Stats](https://github-readme-stats-33q1evl2q-nikhilfortnites-projects.vercel.app/api?username=Nikhilfortnite&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats-lzqqaueur-nikhilfortnites-projects.vercel.app/api/top-langs/?username=Nikhilfortnite&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-33q1evl2q-nikhilfortnites-projects.vercel.app/api/top-langs/?username=Nikhilfortnite&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
-
 ### 🛠️ Tech Stack  
 
 <div align="left" style="background-color:#0d1125; padding:20px; border-radius:10px;">
@@ -54,7 +53,7 @@
 
 ### 📫 Connect with me  
 - 🌐 [Portfolio](https://porfolio-axfl.onrender.com)  
-- 💼 [LinkedIn](https://porfolio-axfl.onrender.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhilam2003/)  
 - ✉️ [Email](mailto:nikhildevika2003@gmail.com)  
 
 ⭐️ From [Nikhil A M](https://github.com/nikhilam)  
