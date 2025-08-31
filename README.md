@@ -7,7 +7,7 @@
 ---
 
 ### 📊 GitHub Stats
-![](assets/github-stats.svg)
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhilfortnite&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilfortnite&layout=compact&theme=tokyonight&include_all_commits=true)
 
