@@ -1,5 +1,8 @@
 name: Fetch GitHub Stats Image
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs every day at midnight UTC
