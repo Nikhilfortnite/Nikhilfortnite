@@ -3,7 +3,7 @@
 </p>
 
 ### 📫 Connect with me  
- 🌐 [Portfolio](https://porfolio-axfl.onrender.com) | 💼 [LinkedIn](https://www.linkedin.com/in/nikhilam2003/) | ✉️ [Email](mailto:nikhildevika2003@gmail.com)  
+ 🌐 [Portfolio](https://porfolio-axfl.onrender.com) | 💼 [LinkedIn](https://www.linkedin.com/in/nikhilam2003/) | ✉️ [Email](mailto:nikhilam.work@gmail.com)  
 ---
 
 ### 📊 GitHub Stats
